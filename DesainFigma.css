@@ -1,0 +1,32 @@
+.navbar {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    position: sticky !important;
+}
+
+header.masthead {
+    background: url("./gambar/wall-tech.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.foot-bg {
+    background: url("./gambar/wall-tech.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.bg-white {
+    box-shadow: 0px 1px 20px 0px #adb5bd;
+}
+
+.first {
+    background-image: url('./gambar/ui-1.png');
+}
+
+.second {
+    background-image: url('./gambar/connection.jpg');
+}
+
+.third {
+    background-image: url('./gambar/keyboard-dark.jpg');
+}
